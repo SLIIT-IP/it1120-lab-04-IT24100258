@@ -33,6 +33,9 @@ public class IT24100258Lab4Q2{
 					System.out.println("Final Exam Mark is : " + final_marks);
 				}
 	
+			}else{
+				System.out.print("Invalid input for exam marks. Terminating program.");
+				System.exit(0);
 			}
 		}else{
 			System.out.print("Invalid input for exam marks. Terminating program.");
