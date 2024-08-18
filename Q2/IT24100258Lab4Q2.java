@@ -34,7 +34,7 @@ public class IT24100258Lab4Q2{
 				}
 	
 			}else{
-				System.out.print("Invalid input for exam marks. Terminating program.");
+				System.out.print("Invalid input for lab submission marks. Terminating program.");
 				System.exit(0);
 			}
 		}else{
